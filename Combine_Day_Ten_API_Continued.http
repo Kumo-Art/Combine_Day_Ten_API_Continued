@@ -1,0 +1,6 @@
+@Combine_Day_Ten_API_Continued_HostAddress = http://localhost:5296
+
+GET {{Combine_Day_Ten_API_Continued_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

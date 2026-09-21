@@ -1,0 +1,43 @@
+ # Intro to API's .NET, & status codes, Http Request Methods
+
+ What does API stand for?
+
+  ## Application Program Interface
+
+  ** API allows different applications to communicate with each other **
+
+  ** Front end -> API -> Data -> API -> Front end.
+
+   ## .NET is Microsofts Developement Platform
+
+   ** Dotnet Lets us create application from Console Project to web API to frontend website **
+
+    ## What is an Endpoint
+
+    An end endpoint is a specified location where we send our requests to (ex: localhost5000/user/api/login)
+
+     ## What is a controller
+
+Controllers Hold our Endpoints and allows applications to send requests to them
+
+** Request -> Controller -> C# Logic -> request / response is sent back
+
+ ## CRUD - Create, Read, Update & Delete
+
+
+ ### Read Method [HttpGet]
+
+ Retrieves Data from our API / Database
+
+ //-------------------------------------------------------//
+
+
+ # Status Codes
+
+ ##200 Status Code 
+ 
+ means your request is good - success
+
+ ##400 Status code 
+ 
+ means a bad request, something was wrong with request
