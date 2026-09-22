@@ -31,3 +31,37 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Combine_Day_Ten_API_Continued\obj\De
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.pdb
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\ref\Combine_Day_Ten_API_Continued.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\appsettings.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.staticwebassets.endpoints.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.exe
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.deps.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Combine_Day_Ten_API_Continued.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.sourcelink.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\scopedcss\bundle\Combine_Day_Ten_API_Continued.styles.css
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_.259E7B30.Up2Date
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\refint\Combine_Day_Ten_API_Continued.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\Combine_Day_Ten_API_Continued.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Combine_Day_Ten_API_Continued\obj\Debug\net10.0\ref\Combine_Day_Ten_API_Continued.dll

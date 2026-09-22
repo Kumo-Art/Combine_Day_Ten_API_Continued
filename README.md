@@ -29,6 +29,18 @@ Controllers Hold our Endpoints and allows applications to send requests to them
 
  Retrieves Data from our API / Database
 
+ ### Create Method [HttpPost]
+
+ Used to create new Data (ex creating a new account)
+
+ ### Update Method [HttpPut]
+
+ Used to *Update existing data*
+
+ ### Delete Method [HttpDelete]
+
+ Used to *delete existing Data*
+
  //-------------------------------------------------------//
 
 

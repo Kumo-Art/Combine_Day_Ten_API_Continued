@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Combine_Day_Ten_API_Continued\\Combine_Day_Ten_API_Continued.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Combine_Day_Ten_API_Continued\\Combine_Day_Ten_API_Continued.csproj",
       "projectName": "Combine_Day_Ten_API_Continued",
-      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Combine_Day_Ten_API_Continued\\Combine_Day_Ten_API_Continued.csproj",
+      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Combine_Day_Ten_API_Continued\\Combine_Day_Ten_API_Continued.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Combine_Day_Ten_API_Continued\\obj\\",
+      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Combine_Day_Ten_API_Continued\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
