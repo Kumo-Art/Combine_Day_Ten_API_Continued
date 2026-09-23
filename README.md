@@ -50,6 +50,47 @@ Controllers Hold our Endpoints and allows applications to send requests to them
  
  means your request is good - success
 
+##201 status code
+
+this means our creation was successful
+(used for CreateAtaction)
+
+##204 status code
+simply states he request was successful with nothing to return
+(NoContent)
+
  ##400 Status code 
  
  means a bad request, something was wrong with request
+
+ ##404
+
+
+ //------------------------------------------------------//
+
+
+ ## Day Three Services, Interfaces and Dependancy Injection
+
+ # Controller is our waiter -- Takes orders (Request Methods)
+
+ # Interface is our menu -- Tells us what our kitchen has
+
+ # Services is our kitchen -- Makes the food (implements our logic)
+
+ # Dependancy Injection is our Manager -- Makes sure Everything runs smoothly (Connects everything)
+
+
+ ### Services
+
+ This layer of our application is where our logic resides (we access our database from this layer only)
+
+
+ ### Interface
+
+ this is a contract or a list of promises that our services must implement (there is no logic here)
+
+
+ ### Dependancy Injection
+
+ we inject our services into the controller using our constructor
+ we must add our services and interface 
